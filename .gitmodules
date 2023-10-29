@@ -1,0 +1,9 @@
+[submodule "journeyGo-backend"]
+	path = journeyGo-backend
+	url = https://github.com/melihgunduz/journeyGo-backend.git
+[submodule "journeyGo-frontend"]
+	path = journeyGo-frontend
+	url = https://github.com/melihgunduz/journeyGo-frontend.git
+[submodule "journeyGo-smart-contract"]
+	path = journeyGo-smart-contract
+	url = https://github.com/melihgunduz/journeyGo-smart-contract.git
